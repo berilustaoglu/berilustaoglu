@@ -14,7 +14,7 @@ Burada siber güvenlik alanında tamamladığım eğitimler ve aldığım belgel
 Here you will find the training I have completed and the certificates I have received in the field of cybersecurity:
 
 ### 1. BTK Akademi Bilgi Teknolojilerine Giriş
-![Sertifika 1](Bilgi_Teknolojilerine_Giris_Sertifika.png)
+[Sertifika 1](Bilgi_Teknolojilerine_Giris_Sertifika.png)
 
 ### 2. BTK Akademi Bilgisayar Ağlarına Giriş
 ![Sertifika 2](Bilgisayar_Aglarina_Giris_Sertifika.png)
