@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm a Cybersecurity Enthusiast!
 
-<!--
-**berilustaoglu/berilustaoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Siber güvenlik alanında kendimi geliştiren, ofansif ve defansif güvenlik süreçlerine ilgi duyan bir araştırmacıyım. GitHub profilimde geliştirdiğim güvenlik araçlarını ve laboratuvar çalışmalarımı bulabilirsiniz.
+I am a researcher specializing in cybersecurity, interested in both offensive and defensive security processes. You can find the security tools I've developed and my lab work on my GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools (Kullandığım Araçlar)
+- **Languages:** Python, C#, SQL
+- **Tools:** Nmap, Wireshark, VirtualBox
+- **OS:** Kali Linux,  Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certificates & Achievements (Sertifikalarım ve Belgelerim)
+
+Burada siber güvenlik alanında tamamladığım eğitimler ve aldığım belgeler yer almaktadır:
+Here you will find the training I have completed and the certificates I have received in the field of cybersecurity:
+
+### 1. [Sertifika Adı - Örn: BTK Akademi Siber Güvenlik Temelleri]
+![Sertifika 1](btk_akademi_siber_guvenlik.png)
+
+### 2. [Sertifika Adı - Örn: TryHackMe Pre-Security]
+![Sertifika 2](ceh_certificate.png)
+
+---
+📫 Nasıl Ulaşabilirsiniz?:  berilatsu@gmail.com
+📫 How to contact us?:  berilatsu@gmail.com
+   
