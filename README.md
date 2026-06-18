@@ -40,4 +40,7 @@ Here you will find the training I have completed and the certificates I have rec
 ---
 📫 Nasıl Ulaşabilirsiniz?:  berilatsu@gmail.com
 📫 How to contact us?:  berilatsu@gmail.com
+
+![Profil Görüntüleme Sayısı]([(https://github.com/berilustaoglu))
+
    
