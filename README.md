@@ -1,16 +1,26 @@
-# 👋 Hi, I'm a Cybersecurity Enthusiast!
+# 👋 Hi, I'm berilustaoglu | Cybersecurity & Software Enthusiast!
 
-Siber güvenlik alanında kendimi geliştiren, ofansif ve defansif güvenlik süreçlerine ilgi duyan bir araştırmacıyım. GitHub profilimde geliştirdiğim güvenlik araçlarını ve laboratuvar çalışmalarımı bulabilirsiniz.
+<p align="left">
+  <img src="https://komarev.com" alt="berilustaoglu profil goruntuleme sayisi" />
+</p>
+
+Siber güvenlik alanında kendimi geliştiren, ofansif ve defansif güvenlik süreçlerine ilgi duyan bir araştırmacıyım. GitHub profilimde geliştirdiğim güvenlik araçlarını, veri analitiği yazılımlarımı ve laboratuvar çalışmalarımı bulabilirsiniz.
+
 I am a researcher specializing in cybersecurity, interested in both offensive and defensive security processes. You can find the security tools I've developed and my lab work on my GitHub profile.
 
+## 🧰 Featured Projects (Öne Çıkan Projeler)
+
+* 🛠️ **[Advanced Computer Vision & Image Processing Toolbox](https://github.com)**: OpenCV, NumPy ve Matplotlib ile geliştirdiğim; adli bilişim (forensics), pozlama analizi, akıllı resim boyutlandırma ve canlı kamera konsolu barındıran dev araç kutusu projem.
+* 🛡️ **[Type-Safe Security Log Parser](https://github.com)**: TypeScript kullanarak geliştirdiğim, derleme zamanı (compile-time) tip güvenliği kısıtlamalarıyla SIEM/SOC altyapı loglarını analiz eden kurumsal tehdit tespit motoru simülatörüm.
+
 ## 🛠️ Tech Stack & Tools (Kullandığım Araçlar)
-- **Languages:** Python, C#, SQL
-- **Tools:** Nmap, Wireshark, VirtualBox
-- **OS:** Kali Linux,  Windows
+- **Languages:** Python, TypeScript, C#, SQL, Bash, JavaScript
+- **Tools:** OpenCV, NumPy, Matplotlib, Nmap, Wireshark, VirtualBox, Node.js
+- **OS:** Kali Linux, Windows
 
 ## 📜 Certificates & Achievements (Sertifikalarım ve Belgelerim)
 
-Burada siber güvenlik alanında tamamladığım eğitimler ve aldığım belgeler yer almaktadır:
+Burada siber güvenlik ve yazılım alanında tamamladığım eğitimler ve aldığım belgeler yer almaktadır:
 Here you will find the training I have completed and the certificates I have received in the field of cybersecurity:
 
 ### 1. BTK Akademi Bilgi Teknolojilerine Giriş
@@ -38,10 +48,4 @@ Here you will find the training I have completed and the certificates I have rec
 ![Sertifika 8](Temel_Kriptoloji_Sertifika.png)
 
 ---
-📫 Nasıl Ulaşabilirsiniz?:  berilatsu@gmail.com
-📫 How to contact us?:  berilatsu@gmail.com
-
-![Profil Görüntüleme Sayısı](https://komarev.com)
-
-
-   
+📫 Nasıl Ulaşabilirsiniz? / How to contact me?: berilatsu@gmail.com
