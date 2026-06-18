@@ -1,14 +1,12 @@
 # 👋 Hi, I'm berilustaoglu | Cybersecurity & Software Enthusiast!
 
-<p align="left">
-  <img src="https://komarev.com" alt="berilustaoglu profil goruntuleme sayisi" />
-</p>
+![Profil Görüntüleme Sayısı](https://komarev.com)
 
 Siber güvenlik alanında kendimi geliştiren, ofansif ve defansif güvenlik süreçlerine ilgi duyan bir araştırmacıyım. GitHub profilimde geliştirdiğim güvenlik araçlarını, veri analitiği yazılımlarımı ve laboratuvar çalışmalarımı bulabilirsiniz.
 
 I am a researcher specializing in cybersecurity, interested in both offensive and defensive security processes. You can find the security tools I've developed and my lab work on my GitHub profile.
 
-## 🧰 Featured Projects (Öne Çıkan Projeler)
+## 🧰 Featured Projects (Öne Çıkan Projelerim)
 
 * 🛠️ **[Advanced Computer Vision & Image Processing Toolbox](https://github.com)**: OpenCV, NumPy ve Matplotlib ile geliştirdiğim; adli bilişim (forensics), pozlama analizi, akıllı resim boyutlandırma ve canlı kamera konsolu barındıran dev araç kutusu projem.
 * 🛡️ **[Type-Safe Security Log Parser](https://github.com)**: TypeScript kullanarak geliştirdiğim, derleme zamanı (compile-time) tip güvenliği kısıtlamalarıyla SIEM/SOC altyapı loglarını analiz eden kurumsal tehdit tespit motoru simülatörüm.
